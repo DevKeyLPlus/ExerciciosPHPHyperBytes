@@ -10,3 +10,6 @@ Site dos exercicios: https://hiperbytes.com.br/php/lista-de-exercicios-php-1/
 
 ### Exercicio 1
 Escreva um algoritmo para somar dois números e multiplicar o resultado pelo primeiro número.
+
+### Exercicio 2
+Escreva um algoritmo que leia três números nas variáveis Val1, Val2 e Val3, calcule sua média na variável media e exiba para o usuário o resultado
