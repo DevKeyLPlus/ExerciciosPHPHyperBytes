@@ -7,3 +7,6 @@ Site dos exercicios: https://hiperbytes.com.br/php/lista-de-exercicios-php-1/
 
 
 - Não vou me preocupar com formatação dos arquivos
+
+### Exercicio 1
+Escreva um algoritmo para somar dois números e multiplicar o resultado pelo primeiro número.
