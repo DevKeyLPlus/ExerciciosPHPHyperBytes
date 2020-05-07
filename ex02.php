@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title></title>
+	<title>Exercicio 2</title>
 </head>
 <body>
 	<form method="post" action="">
