@@ -15,4 +15,4 @@ Escreva um algoritmo para somar dois números e multiplicar o resultado pelo pri
 Escreva um algoritmo que leia três números nas variáveis Val1, Val2 e Val3, calcule sua média na variável media e exiba para o usuário o resultado
 
 ### Exercicio 3
-Escreva um algoritmo que receba um valor, calcule e mostre para usuário 15%
+Escreva um algoritmo que receba um valor, calcule e mostre para usuário 15% deste valor.
