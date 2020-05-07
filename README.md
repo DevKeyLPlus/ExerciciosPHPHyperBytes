@@ -16,3 +16,6 @@ Escreva um algoritmo que leia três números nas variáveis Val1, Val2 e Val3, c
 
 ### Exercicio 3
 Escreva um algoritmo que receba um valor, calcule e mostre para usuário 15% deste valor.
+
+### Exercicio 4
+Escreva um algoritmo que receba um valor, calcule e mostre para o usuário 5% e 50% deste valor.
